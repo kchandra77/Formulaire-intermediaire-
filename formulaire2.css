@@ -1,0 +1,19 @@
+body {
+		color: white;
+		background-size: cover;
+		background-image: url(https://static.pexels.com/photos/36487/above-adventure-aerial-air.jpg);
+		text-align: center;
+		margin-top: 150px;
+}
+.center{
+
+	width:300px; 
+	
+}
+
+table input{
+		width: 200px;
+}
+.centre{
+	 text-align:center;
+}
